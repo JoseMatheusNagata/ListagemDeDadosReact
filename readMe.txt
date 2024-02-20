@@ -6,6 +6,8 @@ pnpm dlx tailwindcss init -p
 
 pnpm i lucide-react
 
+pnpm i tailwind-variants tailwind-merge
+pnpm i @radix-ui/react-select
 
 git st
 git init
